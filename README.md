@@ -6,7 +6,7 @@ An end-to-end modern data engineering pipeline built to ingest, validate, model,
 
 ## 🏛️ Architecture Diagram
 
-![Walmart Data Pipeline Architecture](https://kommodo.ai/i/7x2ZQY6i0cgkuBnM2DxM)
+![Walmart Data Pipeline Architecture](https://kommodo.ai/i/3uIVl4ZHao1Ihk3rSZuH)
 
 ---
 
