@@ -6,7 +6,7 @@ An end-to-end modern data engineering pipeline built to ingest, validate, model,
 
 ## 🏛️ Architecture Diagram
 
-![Walmart Data Pipeline Architecture](https://share.gemini.google/TLQVI3XulXsy)
+![Walmart Data Pipeline Architecture](https://github.com/AkshatRabgotra/WALMART_DATA_PIPELINE/blob/main/arch.png?raw=true)
 
 ---
 
